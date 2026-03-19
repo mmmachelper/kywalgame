@@ -34,7 +34,7 @@
     "logoAsset": "",
     "logoUrl": "https://raw.githubusercontent.com/mmmachelper/kywalgame/refs/heads/main/2.png",
     "policyIcon": {
-      "enabled": true,
+      "enabled": false,
       "icon": "shield",
       "action": {
         "type": "route",
@@ -82,7 +82,7 @@
         "id": "contact_telegram",
         "label": "Telegram",
         "icon": "telegram",
-        "visible": true,
+        "visible": false,
         "action": {
           "type": "url",
           "url": "https://t.me/X109110",
@@ -93,7 +93,7 @@
         "id": "contact_viber",
         "label": "Viber",
         "icon": "phone_in_talk",
-        "visible": true,
+        "visible": false,
         "action": {
           "type": "url",
           "url": "viber://chat?number=%2B959123456789",
