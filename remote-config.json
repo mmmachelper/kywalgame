@@ -14,7 +14,7 @@
       "latestVersionName": "1.0.1",
       "title": "Update Available",
       "message": "A newer version is available.",
-      "androidStoreUrl": "https://play.google.com/store/apps/details?id=com.example.kywal_game",
+      "androidStoreUrl": "https://play.google.com/store/apps/details?id=com.buffalo.fungames",
       "fallbackUrl": "https://your-site.com/download"
     }
   },
@@ -30,6 +30,7 @@
     "url": "https://your-site.com/policy"
   },
   "home": {
+    "contactText": "အကောင့်ဖွင့်ရန်ဆက်သွယ်ပါ",
     "logoAsset": "",
     "logoUrl": "https://raw.githubusercontent.com/mmmachelper/kywalgame/refs/heads/main/2.png",
     "policyIcon": {
@@ -68,19 +69,14 @@
         "label": "Play Game",
         "icon": "sports_esports",
         "visible": true,
-        "action": {
-          "type": "route",
-          "route": "game1_match3"
-        }
+        "action": { "type": "route", "route": "game1_match3" }
       },
       {
         "id": "exit_game",
         "label": "Exit Game",
         "icon": "exit_to_app",
         "visible": true,
-        "action": {
-          "type": "exit"
-        }
+        "action": { "type": "exit" }
       },
       {
         "id": "contact_telegram",
@@ -107,14 +103,8 @@
     ]
   },
   "games": {
-    "game1_match3": {
-      "enabled": true
-    },
-    "game2_slot": {
-      "enabled": false
-    },
-    "game3_memory": {
-      "enabled": false
-    }
+    "game1_match3": { "enabled": true },
+    "game2_slot": { "enabled": false },
+    "game3_memory": { "enabled": false }
   }
 }
