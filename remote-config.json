@@ -83,7 +83,7 @@
         "id": "contact_telegram",
         "label": "Telegram",
         "icon": "telegram",
-        "visible": false,
+        "visible": true,
         "action": {
           "type": "url",
           "url": "https://t.me/Xadw109110",
