@@ -72,14 +72,7 @@
         "visible": true,
         "action": { "type": "route", "route": "game1_match3" }
       },
-      {
-        "id": "exit_game",
-        "label": "Exit Game",
-        "icon": "exit_to_app",
-        "visible": true,
-        "action": { "type": "exit" }
-      },
-      {
+        {
         "id": "contact_telegram",
         "label": "Telegram",
         "icon": "telegram",
@@ -90,6 +83,14 @@
           "fallbackUrl": ""
         }
       },
+      {
+        "id": "exit_game",
+        "label": "Exit Game",
+        "icon": "exit_to_app",
+        "visible": true,
+        "action": { "type": "exit" }
+      },
+    
       {
         "id": "contact_viber",
         "label": "Viber",
