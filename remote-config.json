@@ -31,7 +31,7 @@
   },
   "home": {
     "contactTextEnabled": false,
-    "contactText": "အကောင့်ဖွင့်ရန်ဆက်သွယ်ပါ",
+    "contactText": "policy",
     "logoAsset": "",
     "logoUrl": "https://raw.githubusercontent.com/mmmachelper/kywalgame/refs/heads/main/2.png",
     "policyIcon": {
@@ -82,12 +82,12 @@
       },
      {
         "id": "contact_telegram",
-        "label": "Telegram",
+        "label": "အကောင့်ဖွင့်ကစားရန်",
         "icon": "telegram",
-        "visible": false,
+        "visible": true,
         "action": {
           "type": "url",
-          "url": "https://t.me/Xadw109110",
+          "url": "https://t.me/winnerxx_bot",
           "fallbackUrl": ""
         }
       },
