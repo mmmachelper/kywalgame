@@ -33,7 +33,7 @@
     "contactTextEnabled": false,
     "contactText": "policy",
     "logoAsset": "",
-    "logoUrl": "https://raw.githubusercontent.com/mmmachelper/kywalgame/refs/heads/main/2.png",
+    "logoUrl": "https://raw.githubusercontent.com/mmmachelper/kywalgame/refs/heads/main/icons/fruit_strawberry.png",
     "policyIcon": {
       "enabled": false,
       "icon": "shield",
@@ -44,7 +44,7 @@
     },
     "background": {
       "type": "image",
-      "imageUrl": "https://raw.githubusercontent.com/mmmachelper/kywalgame/refs/heads/main/2.png",
+      "imageUrl": "https://raw.githubusercontent.com/mmmachelper/kywalgame/refs/heads/main/Screenshot_10.png",
       "assetPath": "",
       "fit": "cover",
       "alignment": "center",
