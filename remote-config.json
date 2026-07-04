@@ -84,7 +84,7 @@
         "id": "contact_telegram",
         "label": "အကောင့်ဖွင့်ကစားရန်",
         "icon": "telegram",
-        "visible": false,
+        "visible": true,
         "action": {
           "type": "url",
           "url": "https://t.me/winnerxx_bot",
