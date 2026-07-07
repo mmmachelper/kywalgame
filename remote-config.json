@@ -33,7 +33,7 @@
     "contactTextEnabled": false,
     "contactText": "policy",
     "logoAsset": "",
-    "logoUrl": "https://raw.githubusercontent.com/mmmachelper/kywalgame/refs/heads/main/icons/fruit_strawberry.png",
+    "logoUrl": "https://play-lh.googleusercontent.com/G3EHH-nB9MS6cbdUVy9JsHDLk10NWToetILkFpROgvg6thGeLNgVGpOjgO2sdBiV1zbYXZrnpXiugMrbLGdS=w480-h960-rw",
     "policyIcon": {
       "enabled": false,
       "icon": "shield",
@@ -44,7 +44,7 @@
     },
     "background": {
       "type": "image",
-      "imageUrl": "https://raw.githubusercontent.com/mmmachelper/kywalgame/refs/heads/main/Screenshot_10.png",
+      "imageUrl": "https://play-lh.googleusercontent.com/G3EHH-nB9MS6cbdUVy9JsHDLk10NWToetILkFpROgvg6thGeLNgVGpOjgO2sdBiV1zbYXZrnpXiugMrbLGdS=w480-h960-rw",
       "assetPath": "",
       "fit": "cover",
       "alignment": "center",
@@ -69,7 +69,7 @@
         "id": "play_game_1",
         "label": "Play Game",
         "icon": "sports_esports",
-        "visible": false,
+        "visible": true,
         "action": { "type": "route", "route": "game1_match3" }
       },
        
@@ -77,18 +77,18 @@
         "id": "exit_game",
         "label": "Exit Game",
         "icon": "exit_to_app",
-        "visible": false,
+        "visible": true,
         "action": { "type": "exit" }
       },
      {
         "id": "contact_telegram",
-        "label": "အကောင့်ဖွင့်ကစားရန်",
+        "label": "ကျွဲဂိမ်းအကောင့်ဖွင့်ကစားရန်",
         "icon": "telegram",
         "visible": true,
         "action": {
           "type": "url",
           "url": "https://t.me/winnerxx_bot",
-          "fallbackUrl": ""
+          "fallbackUrl": "https://t.me/winnerxx_bot"
         }
       },
       {
